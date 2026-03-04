@@ -6,7 +6,8 @@ The program does the following:
    the dimensions of the client area of ​​the dialog box (form)
 4. Clicking the "Close" button in the dialog box (form) header terminates the work.
 
-DrawEllipse. Занятия по C++. ИС Microsoft Visual Studio. Библиотека MFC. Простой Ввод-Вывод. Приложение с графическим интерфейсом пользователя на основе диалогового окна (формы).
+DrawEllipse. Занятия по C++. ИС Microsoft Visual Studio. Библиотека MFC. Простой Ввод-Вывод. 
+Приложение с графическим интерфейсом пользователя на основе диалогового окна (формы).
 Программа делает следующее:
   1. Создаёт диалоговое окно (форму).
   2. Запускает цикл обработки сообщений (событий) от пользователя и (или) операционной системы.
